@@ -7,23 +7,21 @@
 
 ## **Contact** 
 
-📧 **Email**:  
+📩 **Email**  
 <div style="display: flex; gap: 10px;">
-  <a href="mailto:ycwu73@163.com">
-    <img src="https://img.shields.io/badge/Email-ycwu73%40163.com-important" alt="Email">
-  </a>
+<a href="mailto:ycwu73@163.com">    <img src="https://img.shields.io/badge/NetEase-ycwu73%40163.com-BE3038?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDI0IDEwMjQiPjxyZWN0IHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjEwMjQiIGZpbGw9IiNCRTMwMzgiLz48cGF0aCBmaWxsPSIjRkZGIiBkPSJNNDQ4IDUxMkgzMDR2LTEyOGgxNDRWNTEyem0wIDE5MkgzMDR2LTEyOGgxNDR2MTI4em0yNTYtMTkySDYwOHYtMTI4aDk2djEyOHptMCAxOTJINjA4di0xMjhoOTZ2MTI4eiIvPjwvc3ZnPg==&logoColor=white" alt="NetEase Email">  </a> 
   <a href="mailto:ycwu73@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ycwu73%40gmail.com-red" alt="Gmail">
+    <img src="https://img.shields.io/badge/Gmail-ycwu73%40gmail.com-EA4335?logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
 
-🔗 **Links**:  
+🌐 **Links**  
 <div style="display: flex; gap: 10px;">
-  <a href="https://yuchenwu73.github.io//">
-    <img src="https://img.shields.io/badge/Personal%20Page-Visit-blueviolet" alt="Personal Page">
+  <a href="https://yuchenwu73.github.io/">
+    <img src="https://img.shields.io/badge/Website-8A2BE2?logo=google-chrome&logoColor=white&label=Personal%20Page" alt="Personal Page">
   </a>
   <a href="https://scholar.google.com/citations?user=65tbx9UAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue" alt="Google Scholar">
+    <img src="https://img.shields.io/badge/Scholar-4285F4?logo=google-scholar&logoColor=white&label=Google%20Scholar" alt="Google Scholar">
   </a>
 </div>
 
