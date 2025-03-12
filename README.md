@@ -5,7 +5,7 @@
 * 🏫 **Senior Undergraduate Student** @ **[AUST](https://www.aust.edu.cn/)**, graduating in 2025
 * 🧠 Research Interests: **Computer Vision 👁️**, **Efficient AI ⚡**, **Multimodal LLMs 🤖**
 
-## **Contact** <img src="https://imgcdn.sigstick.com/mI49g7z4OAzFPOFhnVQN/8-1.thumb128.png" width="35">
+## **Contact** 
 
 📧 **Email**:  
 <div style="display: flex; gap: 10px;">
@@ -27,7 +27,7 @@
   </a>
 </div>
 
-## **GitHub Analytics** <img src="https://imgcdn.sigstick.com/NeqD2mm7O7HjGZpA2FUI/7-1.thumb128.webp" width="35">
+## **GitHub Analytics**
 <p align="left">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yuchenwu73&show_icons=true&theme=calm&count_private=true" />
 </p>
