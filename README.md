@@ -9,8 +9,8 @@
 
 📧 **Email**:  
 <div style="display: flex; gap: 10px;">
-  <a href="mailto:ycwu73@163.COM">
-    <img src="https://img.shields.io/badge/Email-ycwu%40aust.edu.cn-important" alt="Email">
+  <a href="mailto:ycwu73@163.com">
+    <img src="https://img.shields.io/badge/Email-ycwu73%40163.com-important" alt="Email">
   </a>
   <a href="mailto:ycwu73@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ycwu73%40gmail.com-red" alt="Gmail">
