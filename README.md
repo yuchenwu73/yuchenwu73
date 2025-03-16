@@ -1,9 +1,14 @@
 <h1 align="center">Hi, I'm Yuchen Wu (吴宇辰) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<div style="display: flex; align-items: center; gap: 10px; margin-bottom: 10px;">
-  <strong>##About Me</strong>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fyuchenwu73.github.io&count_bg=%233FDBD2&title_bg=%233D62C7&icon=googlepodcasts.svg&icon_color=%23E9F742&title=Page+Viewers&edge_flat=false"/></a>
-</div>
+
+<h2>About Me <span style="font-weight: normal; vertical-align: middle; display: inline-block;">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fyuchenwu73.github.io&count_bg=%233FDBD2&title_bg=%233D62C7&icon=googlepodcasts.svg&icon_color=%23E9F742&title=Page+Viewers&edge_flat=false"/>
+  </a>
+</span></h2>
+
+<!-- 您的 About Me 内容放在这里 -->
+
 * 🎓 **Incoming M.Eng. Student** at the **[MIG](https://github.com/MIG-UESTC-Lab)** @ **[CFM](https://cfm.uestc.edu.cn/index)**, **[UESTC](https://www.uestc.edu.cn/)**, supervised by Prof. **[Guoqing Wang](https://faculty.uestc.edu.cn/wangguoqing2/zh_CN/index.htm)**.
 * 🏫 **Senior Undergraduate Student** @ **[AUST](https://www.aust.edu.cn/)**, graduating in 2025
 * 🧠 Research Interests: **Computer Vision 👁️**, **Efficient AI ⚡**, **Multimodal LLMs 🤖**
