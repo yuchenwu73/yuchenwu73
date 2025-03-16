@@ -1,10 +1,8 @@
 <h1 align="center">Hi, I'm Yuchen Wu (吴宇辰) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; gap: 20px;">
   <div><strong>## About Me</strong></div>
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=yuchenwu73&label=Page%20Viewers&color=3498db&style=flat-square" alt="Profile Views">
-  </div>
+  <img src="https://komarev.com/ghpvc/?username=yuchenwu73&label=Page%20Viewers&color=3498db&style=for-the-badge" alt="Profile Views">
 </div>
 
 * 🎓 **Incoming M.Eng. Student** at the **[MIG](https://github.com/MIG-UESTC-Lab)** @ **[CFM](https://cfm.uestc.edu.cn/index)**, **[UESTC](https://www.uestc.edu.cn/)**, supervised by Prof. **[Guoqing Wang](https://faculty.uestc.edu.cn/wangguoqing2/zh_CN/index.htm)**.
