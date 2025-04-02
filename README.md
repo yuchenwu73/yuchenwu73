@@ -7,7 +7,7 @@
 
 <!-- 您的 About Me 内容放在这里 -->
 
-* 🎓 **Incoming M.Eng. Student** at the **[MIG](https://github.com/MIG-UESTC-Lab)** @ **[CFM](https://cfm.uestc.edu.cn/index)**, **[UESTC](https://www.uestc.edu.cn/)**, supervised by Prof. **[Guoqing Wang](https://faculty.uestc.edu.cn/wangguoqing2/zh_CN/index.htm)**.
+* 🎓 **Incoming M.Eng. Student** at the **[CFM](https://cfm.uestc.edu.cn/index)** @ **[UESTC](https://www.uestc.edu.cn/)**, supervised by Prof. **[Guoqing Wang](https://faculty.uestc.edu.cn/wangguoqing2/zh_CN/index.htm)**.
 * 🏫 **Senior Undergraduate Student** @ **[AUST](https://www.aust.edu.cn/)**, graduating in 2025
 * 🧠 Research Interests: **Computer Vision 👁️**, **Efficient AI ⚡**, **Multimodal LLMs 🤖**
 
