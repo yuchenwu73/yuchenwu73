@@ -1,18 +1,21 @@
-<h1 align="center">Hi, I'm Yuchen Wu (吴宇辰) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  Hi, I'm Yuchen Wu (吴宇辰)
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
-
-<h2>About Me </h2>
-
+<h2>About Me</h2>
 
 * 🎓 **First-year M.S. Student** in **Computer Science** at the **[MIG](https://mig-uestc-lab.github.io/)** @ **[CFM](https://cfm.uestc.edu.cn/index)**, **[UESTC](https://www.uestc.edu.cn/)**, supervised by Prof. **[Guoqing Wang](https://faculty.uestc.edu.cn/wangguoqing2/zh_CN/index.htm)**
 * 🏫 **Graduated** from **[AUST](https://www.aust.edu.cn/)** with a **B.Eng. degree** in **Computer Science**.
 * 🧠 Research Interests: **Computer Vision 👁️**, **Efficient AI ⚡**, **Multimodal LLMs 🤖**
 
-## **Contact** 
+## **Contact**
 
 📩 **Email**  
 <div style="display: flex; gap: 10px;">
-<a href="mailto:ycwu73@163.com">    <img src="https://img.shields.io/badge/NetEase-ycwu73%40163.com-BE3038?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDI0IDEwMjQiPjxyZWN0IHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjEwMjQiIGZpbGw9IiNCRTMwMzgiLz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyMDAgMjAwKSI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjgwIiBoZWlnaHQ9IjI0MCIgcng9IjIwIiB0cmFuc2Zvcm09InNrZXdYKC0zMCkiIGZpbGw9IiNGRkYiLz48cmVjdCB4PSIxMjAiIHk9IjAiIHdpZHRoPSI4MCIgaGVpZ2h0PSIyNDAiIHJ4PSIyMCIgdHJhbnNmb3JtPSJza2V3WCgtMzApIiBmaWxsPSIjRkZGIi8+PHJlY3QgeD0iMjQwIiB5PSIwIiB3aWR0aD0iODAiIGhlaWdodD0iMjQwIiByeD0iMjAiIHRyYW5zZm9ybT0ic2tld1goLTMwKSIgZmlsbD0iI0ZGRiIvPjxyZWN0IHg9IjM2MCIgeT0iMCIgd2lkdGg9IjgwIiBoZWlnaHQ9IjI0MCIgcng9IjIwIiB0cmFuc2Zvcm09InNrZXdYKC0zMCkiIGZpbGw9IiNGRkYiLz48cmVjdCB4PSI0ODAiIHk9IjAiIHdpZHRoPSI4MCIgaGVpZ2h0PSIyNDAiIHJ4PSIyMCIgdHJhbnNmb3JtPSJza2V3WCgtMzApIiBmaWxsPSIjRkZGIi8+PC9nPjwvc3ZnPg==&logoColor=white" alt="NetEase Email">  </a> 
+  <a href="mailto:ycwu73@163.com">
+    <img src="https://img.shields.io/badge/NetEase-ycwu73%40163.com-BE3038?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDI0IDEwMjQiPjxyZWN0IHdpZHRoPSIxMDI0IiBoZWlnaHQ9IjEwMjQiIGZpbGw9IiNCRTMwMzgiLz48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgyMDAgMjAwKSI+PHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjgwIiBoZWlnaHQ9IjI0MCIgcng9IjIwIiB0cmFuc2Zvcm09InNrZXdYKC0zMCkiIGZpbGw9IiNGRkYiLz48cmVjdCB4PSIxMjAiIHk9IjAiIHdpZHRoPSI4MCIgaGVpZ2h0PSIyNDAiIHJ4PSIyMCIgdHJhbnNmb3JtPSJza2V3WCgtMzApIiBmaWxsPSIjRkZGIi8+PHJlY3QgeD0iMjQwIiB5PSIwIiB3aWR0aD0iODAiIGhlaWdodD0iMjQwIiByeD0iMjAiIHRyYW5zZm9ybT0ic2tld1goLTMwKSIgZmlsbD0iI0ZGRiIvPjxyZWN0IHg9IjM2MCIgeT0iMCIgd2lkdGg9IjgwIiBoZWlnaHQ9IjI0MCIgcng9IjIwIiB0cmFuc2Zvcm09InNrZXdYKC0zMCkiIGZpbGw9IiNGRkYiLz48cmVjdCB4PSI0ODAiIHk9IjAiIHdpZHRoPSI4MCIgaGVpZ2h0PSIyNDAiIHJ4PSIyMCIgdHJhbnNmb3JtPSJza2V3WCgtMzApIiBmaWxsPSIjRkZGIi8+PC9nPjwvc3ZnPg==&logoColor=white" alt="NetEase Email">
+  </a>
   <a href="mailto:ycwu73@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-ycwu73%40gmail.com-EA4335?logo=gmail&logoColor=white" alt="Gmail">
   </a>
@@ -28,11 +31,44 @@
   </a>
 </div>
 
+---
 
 ## **GitHub Analytics**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuchenwu73&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuchenwu73&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" />
-</div>
 
+<!-- Row 1：总统计 + 连击统计 -->
+<p align="left">
+  <img
+    align="center"
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=yuchenwu73&show_icons=true&theme=calm&count_private=true&hide_border=true"
+  />
+  <img
+    align="center"
+    width="48%"
+    src="https://streak-stats.demolab.com?user=yuchenwu73&theme=calm&hide_border=true"
+  />
+</p>
+
+<!-- Row 2：语言占比 + 详情总结卡片 -->
+<p align="left">
+  <img
+    align="center"
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuchenwu73&layout=compact&theme=calm&hide_border=true"
+  />
+  <img
+    align="center"
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuchenwu73&theme=github_dark"
+  />
+</p>
+
+<!-- Row 3：Metrics 综合信息图（可选，不想要可以删掉） -->
+<p align="left">
+  <img
+    align="center"
+    width="98%"
+    src="https://metrics.lecoq.io/yuchenwu73"
+    alt="GitHub Metrics"
+  />
+</p>
