@@ -31,44 +31,10 @@
   </a>
 </div>
 
----
-
 ## **GitHub Analytics**
 
-<!-- Row 1：总统计 + 连击统计 -->
 <p align="left">
-  <img
-    align="center"
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=yuchenwu73&show_icons=true&theme=calm&count_private=true&hide_border=true"
-  />
-  <img
-    align="center"
-    width="48%"
-    src="https://streak-stats.demolab.com?user=yuchenwu73&theme=calm&hide_border=true"
-  />
-</p>
 
-<!-- Row 2：语言占比 + 详情总结卡片 -->
-<p align="left">
-  <img
-    align="center"
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuchenwu73&layout=compact&theme=calm&hide_border=true"
-  />
-  <img
-    align="center"
-    width="48%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yuchenwu73&theme=github_dark"
-  />
-</p>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yuchenwu73&show_icons=true&theme=calm&count_private=true" />
 
-<!-- Row 3：Metrics 综合信息图（可选，不想要可以删掉） -->
-<p align="left">
-  <img
-    align="center"
-    width="98%"
-    src="https://metrics.lecoq.io/yuchenwu73"
-    alt="GitHub Metrics"
-  />
 </p>
