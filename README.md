@@ -32,9 +32,7 @@
 </div>
 
 ## **GitHub Analytics**
-
 <p align="left">
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yuchenwu73&show_icons=true&theme=calm&count_private=true" />
-
+  <img height="180" src="https://streak-stats.demolab.com/?user=yuchenwu73&theme=default&hide_border=true" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuchenwu73&theme=github" />
 </p>
