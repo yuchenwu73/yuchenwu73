@@ -33,6 +33,6 @@
 
 ## **GitHub Analytics**
 <p align="left">
-  <img height="180" src="https://streak-stats.demolab.com/?user=yuchenwu73&theme=default&hide_border=true" />
+  <img height="180" src="https://streak-stats-blond.vercel.app/?user=yuchenwu73" />
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuchenwu73&theme=github&hide_border=true" />
 </p>
