@@ -31,7 +31,7 @@
   </a>
 </div>
 
-## 📊 **GitHub Analytics**
+## **GitHub Analytics**
 <div align="left">
   <img src="https://github-readme-stats-sable-alpha-50.vercel.app/api?username=yuchenwu73&count_private=true&show_icons=true&hide_border=true&theme=default" />
   <img src="https://github-readme-stats-sable-alpha-50.vercel.app/api/top-langs?username=yuchenwu73&count_private=true&hide_border=true&theme=default&layout=donut" />
