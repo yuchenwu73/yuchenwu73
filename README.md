@@ -33,6 +33,9 @@
 
 ## **GitHub Analytics**
 <p align="left">
-  <img height="180" src="https://streak-stats-blond.vercel.app/?user=yuchenwu73" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yuchenwu73&theme=github&hide_border=true" />
+  <img height="180" src="https://streak-stats-blond.vercel.app/?user=yuchenwu73&hide_border=true&theme=default" />
+  
+  <img height="180" src="https://github-readme-stats-sable-alpha-50.vercel.app/api?username=yuchenwu73&count_private=true&show_icons=true&hide_border=true&theme=default" />
+  
+  <img height="180" src="https://github-readme-stats-sable-alpha-50.vercel.app/api/top-langs?username=yuchenwu73&count_private=true&hide_border=true&layout=compact&theme=default" />
 </p>
